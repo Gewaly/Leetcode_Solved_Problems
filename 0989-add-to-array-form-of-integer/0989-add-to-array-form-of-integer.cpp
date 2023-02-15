@@ -7,15 +7,13 @@ public:
             num[i] = temp%10;
             k=temp/10; // carry.
         }
-     vector<int>res;
-     res=num;
         // if k>0 that means we need to insert in front.
         while(k!=0){
-            res.insert(res.begin(),k%10);
+            num.insert(num.begin(),k%10);
             k=k/10;
         }
 
-        return res;
+        return num;
 
 
     }
