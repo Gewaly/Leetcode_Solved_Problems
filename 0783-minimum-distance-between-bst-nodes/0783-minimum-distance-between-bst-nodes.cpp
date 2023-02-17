@@ -22,10 +22,10 @@ public:
         vector<int>arr;
          inorder(root,arr);
         int n=arr.size();
-        sort(arr.begin(),arr.end());
             int diff = INT_MAX;
             for (int i = 0; i < n - 1; i++)
-                  diff=min(diff,abs(arr[i+1] - arr[i]));
+              for (int j = i + 1; j < n; j++)
+                  diff=min(diff,abs(arr[i] - arr[j]));
                            
            return diff;                
     }
