@@ -1,3 +1,5 @@
+//Author: Mohamed Gewaly
+
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -11,11 +13,20 @@
  */
 class Solution {
 public:
+    /**
+    Post Order Treversal in which first we go in Left subtree and 
+    then in Right subtree then we return back to Parent node.
+   When we come back to the parent node we swap it's Left subtree and Right subtree.
+    **/
     TreeNode* invertTree(TreeNode* root) {
-        if(!root) return root;
-        swap(root-> right, root->left);
-        invertTree(root->left);
-        invertTree(root->right);
-        return root;
+        if(!root) return nullptr;             // Base Case
+
+        swap(root-> right, root->left);  // Swap the nodes
+        
+        invertTree(root->left);         //Call the left substree
+        
+        invertTree(root->right);       //Call the left substree  
+        
+        return root;  // Return the root
     }
 };
