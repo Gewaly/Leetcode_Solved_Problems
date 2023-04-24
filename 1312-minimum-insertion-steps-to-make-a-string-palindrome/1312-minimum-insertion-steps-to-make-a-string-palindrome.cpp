@@ -22,6 +22,6 @@ public:
             }
         }
      int ans= dp[n][n]; 
-        return n-ans; 
+        return n-ans;
     }
 };
