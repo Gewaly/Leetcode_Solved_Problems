@@ -4,8 +4,13 @@ public:
      vector<int>ans;
         int cnt;
         for(int i=0;i<=n;i++){
-            int cnt=__builtin_popcount(i);
-            ans.push_back(cnt);
+            cnt=0;
+              for (int j = 31; j >= 0; j--) {
+        int k = i >> j;
+        if (k & 1)
+            cnt++;
+        }
+        ans.push_back(cnt);
         }  
         return ans;
     }
