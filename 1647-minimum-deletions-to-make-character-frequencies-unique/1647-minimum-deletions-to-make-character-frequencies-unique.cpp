@@ -8,9 +8,9 @@ public:
         map<int,int>mp2;
         int cnt=0;
         for(auto x: mp) {
-            if(mp2[x.second]!=1){ mp2[x.second]=1;}
+            if(mp2[x.second]!=1) mp2[x.second]=1;
             else {
-                while(mp2[x.second]==1 && x.second>0){ x.second--; cnt++; }
+                while(mp2[x.second]==1 && x.second>0) x.second--, cnt++;
                 mp2[x.second]=1;
                 }
         
