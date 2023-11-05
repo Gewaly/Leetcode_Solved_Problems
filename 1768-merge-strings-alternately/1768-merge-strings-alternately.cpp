@@ -8,7 +8,6 @@ public:
       prefix += word1[i];
       prefix += word2[i];
     }
-        cout<<prefix<<endl;
 
     return prefix + word1.substr(n) + word2.substr(n);
         
