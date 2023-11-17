@@ -11,7 +11,7 @@ public:
            // cout<<sum<<endl;
             maxi=max(maxi,sum);
             l++;
-           r--;
+         r--;
     }
         return maxi;
     }
