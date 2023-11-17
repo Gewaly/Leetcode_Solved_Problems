@@ -9,8 +9,7 @@ public:
            int sum=nums[l]+nums[r];
             //cout<<nums[l]<<" "<<nums[r]<<endl;
            // cout<<sum<<endl;
-            maxi=max(maxi,sum);
-            l++;
+            maxi=max(maxi,sum); l++;
          r--;
     }
         return maxi;
