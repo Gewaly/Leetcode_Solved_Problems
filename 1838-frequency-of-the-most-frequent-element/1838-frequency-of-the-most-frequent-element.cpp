@@ -10,10 +10,8 @@ public:
             window_size = i-pos+1;
             while(( nums[i]*window_size - window_sum ) > k)
             {
-                window_sum-=nums[pos++];
-                window_size--;
+                window_sum-=nums[pos++]; window_size--;
             }
-
             result = max(result,window_size);
         }
         return result;   
