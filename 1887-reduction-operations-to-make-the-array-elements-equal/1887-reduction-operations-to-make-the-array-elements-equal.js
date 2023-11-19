@@ -10,8 +10,7 @@ var reductionOperations = function(nums) {
         const nextNum = nums[i + 1];
         if (num !== nextNum) {
             count += i + 1;
-        }
-    }
+        }}
     
     return count;
 };
