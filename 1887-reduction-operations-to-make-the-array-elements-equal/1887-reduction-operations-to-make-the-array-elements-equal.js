@@ -12,5 +12,6 @@ var reductionOperations = function(nums) {
             count += i + 1;
         }
     }
+    
     return count;
 };
