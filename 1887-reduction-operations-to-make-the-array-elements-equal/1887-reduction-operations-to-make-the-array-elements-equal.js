@@ -11,6 +11,5 @@ var reductionOperations = function(nums) {
         if (num !== nextNum) {
             count += i + 1;
         }}
-    
     return count;
 };
