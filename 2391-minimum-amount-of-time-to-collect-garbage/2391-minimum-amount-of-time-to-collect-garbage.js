@@ -28,5 +28,4 @@ var garbageCollection = function (garbage, travel) {
             timeTaken += vehicle.occurances[j] + (travel[j - 1] || 0)
         }}
     return timeTaken;
-
 };
