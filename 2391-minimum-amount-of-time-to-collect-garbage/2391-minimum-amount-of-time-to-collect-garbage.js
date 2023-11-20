@@ -26,8 +26,7 @@ var garbageCollection = function (garbage, travel) {
             if (j > lastOccurance) break;
             
             timeTaken += vehicle.occurances[j] + (travel[j - 1] || 0)
-        }
-    }
+        }}
     return timeTaken;
 
 };
