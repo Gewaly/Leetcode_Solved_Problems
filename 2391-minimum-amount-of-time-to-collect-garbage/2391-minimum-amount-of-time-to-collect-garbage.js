@@ -17,9 +17,7 @@ var garbageCollection = function (garbage, travel) {
             vehicles[garbageTypes[j]].occurances[i] += 1;
             vehicles[garbageTypes[j]].lastOccurance = i;
         }}
-    let timeTaken = 0;
-    const vehicleType = ['P', 'M', 'G'];
-
+    let timeTaken = 0, vehicleType = ['P', 'M', 'G'];
     for (let i = 0; i < 3; i++) {
         const vehicle = vehicles[vehicleType[i]];
         const lastOccurance = vehicle.lastOccurance;
