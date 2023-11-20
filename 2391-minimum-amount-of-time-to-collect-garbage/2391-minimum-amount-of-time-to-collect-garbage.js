@@ -22,9 +22,8 @@ var garbageCollection = function (garbage, travel) {
         const vehicle = vehicles[vehicleType[i]];
         const lastOccurance = vehicle.lastOccurance;
 
-        if (lastOccurance === -1) {
-            continue;
-        }
+        if (lastOccurance === -1) continue;
+        
 
         for (let j = 0; j < garbage.length; j++) {
             if (j > lastOccurance) {
