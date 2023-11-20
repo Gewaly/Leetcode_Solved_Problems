@@ -23,7 +23,7 @@ var garbageCollection = function (garbage, travel) {
         const lastOccurance = vehicle.lastOccurance;
         if (lastOccurance === -1) continue;
         for (let j = 0; j < garbage.length; j++) {
-            if (j > lastOccurance)   break;
+            if (j > lastOccurance) break;
             
             timeTaken += vehicle.occurances[j] + (travel[j - 1] || 0)
         }
