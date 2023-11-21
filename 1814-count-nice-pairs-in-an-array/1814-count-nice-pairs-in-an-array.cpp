@@ -9,11 +9,9 @@ public:
         }
         return res;
     }
-
     int countNicePairs(vector<int>& nums) {
         unordered_map<int, int> mp;
         int ans = 0;
-
         for(int num : nums){
             int revNum = rev(num);
             int diff = num - revNum;
