@@ -20,8 +20,7 @@ public:
      
             if(mp.find(diff) != mp.end()){
                 ans = (ans + mp[diff])%1000000007;
-
-            } 
+    }
             mp[diff]++;
         }
         return ans;
