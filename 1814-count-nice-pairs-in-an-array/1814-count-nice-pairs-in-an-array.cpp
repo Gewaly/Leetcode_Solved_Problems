@@ -18,9 +18,8 @@ public:
             int revNum = rev(num);
             int diff = num - revNum;
      
-            if(mp.find(diff) != mp.end()){
-                ans = (ans + mp[diff])%1000000007;
-    }
+            if(mp.find(diff) != mp.end()){    ans = (ans + mp[diff])%1000000007;
+                }
             mp[diff]++;
         }
         return ans;
