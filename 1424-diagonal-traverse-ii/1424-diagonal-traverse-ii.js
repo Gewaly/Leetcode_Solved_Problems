@@ -16,8 +16,7 @@ var findDiagonalOrder = function(nums) {
             }
         } 
     }
-    for (item of map) {
-       result.push(...item[1])
-    }
+    for (item of map) result.push(...item[1])
+    
     return result
 };
