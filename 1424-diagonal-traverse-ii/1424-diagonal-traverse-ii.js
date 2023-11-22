@@ -3,8 +3,7 @@
  * @return {number[]}
  */
 var findDiagonalOrder = function(nums) {
-    let result = []
-    let rCount = nums.length
+    let result = [],rCount = nums.length
     const map = new Map()
     for (let i = 0; i < rCount; i++) {
         for (let j = 0; j < nums[i].length; j++) {
