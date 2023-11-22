@@ -11,10 +11,8 @@ var findDiagonalOrder = function(nums) {
             const check = map.get(i+j)
             if (check) check.unshift(nums[i][j])
             else  map.set(i+j, [nums[i][j]])
-            
         } 
     }
     for (item of map) result.push(...item[1])
-    
     return result
 };
