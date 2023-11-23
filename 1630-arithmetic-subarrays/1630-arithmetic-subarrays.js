@@ -17,9 +17,7 @@ var checkArithmeticSubarrays = function(nums, l, r) {
             for(let i=0; i<s.length-1; i++){
                 if(s[i+1]-s[i] !== s[1]-s[0]) {return false}
             }
-            return true;
-        }
-
+            return true; }
         answer.push(result);
     }
     return answer;
