@@ -10,8 +10,8 @@ var largestSubmatrix = function(M) {
         }}
     for (let i = 0; i < y; i++) {
         let row = M[i].sort((a,b) => b - a);
-        for (let j = 0; j < x; j++)
+        for (let j = 0; j < x; j++){
             ans = Math.max(ans, (j + 1) * row[j]);
-    }
+    }}
     return ans
 };
