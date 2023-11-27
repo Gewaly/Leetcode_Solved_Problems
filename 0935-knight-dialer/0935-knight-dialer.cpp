@@ -4,7 +4,6 @@ public:
     vector<vector<int>> arr,dir;
     int dp[10][10][5005];
     int mod = 1000000007;
-
     int helper(int i, int j, int n){
         if(n==1) return 1;
         if(dp[i][j][n]!=-1) return dp[i][j][n];
