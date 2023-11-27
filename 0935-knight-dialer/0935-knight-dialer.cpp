@@ -31,8 +31,7 @@ public:
         int ans = 0;
         for(int i=0; i<4; i++){
             for(int j=0; j<3; j++){
-                if(arr[i][j]!=-1) ans = ans + helper(i,j,n);
-                ans = ans%mod;
+                if(arr[i][j]!=-1) ans = ans + helper(i,j,n); ans = ans%mod;
             }
         }
         return ans;
