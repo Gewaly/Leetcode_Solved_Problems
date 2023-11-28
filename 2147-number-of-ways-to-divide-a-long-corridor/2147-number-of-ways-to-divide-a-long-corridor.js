@@ -10,9 +10,9 @@ var numberOfWays = function(corridor) {
         }
     }
     //console.log('pos=',pos)
-    if(pos.length%2!=0 || pos.length==0){
+    if(pos.length%2!=0 || pos.length==0)
         return 0
-    }
+    
     if(pos.length==2){
         return 1
     }
