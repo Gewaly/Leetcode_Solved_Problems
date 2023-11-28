@@ -5,8 +5,7 @@
 var numberOfWays = function(corridor) {
     var pos=[]
     for(let i=0;i<corridor.length;i++){
-        if(corridor[i]=='S')
-            pos.push(i)
+        if(corridor[i]=='S') pos.push(i)
         
     }
     //console.log('pos=',pos)
