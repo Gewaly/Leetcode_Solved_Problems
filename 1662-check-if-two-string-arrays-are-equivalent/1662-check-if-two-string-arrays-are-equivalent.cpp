@@ -10,7 +10,6 @@ public:
         for(int i=0;i<word2.size();i++){
             res2+=word2[i];
         }
-        cout<<res2<<endl;
         
         return res2==res1;
         
