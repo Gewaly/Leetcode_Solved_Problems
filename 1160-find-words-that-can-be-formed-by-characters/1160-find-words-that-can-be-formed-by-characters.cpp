@@ -14,10 +14,7 @@ public:
             }
             bool flag=true;
             for(int k=0;k<s.length();k++){
-                if(str[s[k]]>ch[s[k]]){
-                    flag=false;
-                    break;
-                }
+                if(str[s[k]]>ch[s[k]]){flag=false;    break;  }
             }
             if(flag) ans+=s.length();
         }
