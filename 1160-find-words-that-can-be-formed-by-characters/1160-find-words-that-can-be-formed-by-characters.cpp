@@ -4,7 +4,6 @@ public:
         int ans=0;
         unordered_map<char,int>ch;
         for(int i=0;i<chars.length();i++)  ch[chars[i]]++;
-        
         for(int i=0;i<words.size();i++){
             unordered_map<char,int>str;
             string s=words[i];
@@ -15,6 +14,7 @@ public:
             }
             if(flag) ans+=s.length();
         }
+        
         return ans;
     }
 };
