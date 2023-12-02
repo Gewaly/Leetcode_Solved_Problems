@@ -19,8 +19,7 @@ public:
                     break;
                 }
             }
-            if(flag)
-            ans+=s.length();
+            if(flag) ans+=s.length();
         }
         return ans;
     }
