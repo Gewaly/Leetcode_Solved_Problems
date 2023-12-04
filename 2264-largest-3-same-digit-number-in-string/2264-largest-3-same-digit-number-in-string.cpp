@@ -10,9 +10,7 @@ public:
                 } 
     }
         if(mx!=-1){
-        j=mx+'0';
-        j+=mx+'0';
-        j+=mx+'0';
+        j=mx+'0',  j+=mx+'0',j+=mx+'0';
         }
 
         return j;
