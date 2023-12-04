@@ -9,7 +9,6 @@ public:
              mx=max(num[i]-'0',mx);
                 } 
     }
-        cout<<mx<<endl;
         if(mx!=-1){
         j=mx+'0';
         j+=mx+'0';
