@@ -6,8 +6,7 @@ public:
             if(i == 7){ counter++; count = counter; i = 0;  }
             money += count;
             i++;
-            count++;
-            n--;
+            count++;   n--;
         }
         return money;
     }
