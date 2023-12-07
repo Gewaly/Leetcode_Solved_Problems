@@ -13,9 +13,9 @@ var largestOddNumber = function(num) {
                          sub+=num[i];
                     }
                     return sub;
-                } else{
-                         k--;
-                 }
+                } 
+        else  k--;
+                 
     }
     return sub;
    
