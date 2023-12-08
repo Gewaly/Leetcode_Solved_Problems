@@ -11,8 +11,7 @@
  * @return {string}
  */
 var tree2str = function(root) {
-    if (!root) 
-        return '';
+    if (!root)   return '';
     
     if (!root.left && !root.right)   return root.val + '';
     
