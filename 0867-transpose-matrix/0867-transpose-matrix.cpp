@@ -8,7 +8,6 @@ public:
                 ans[i][j]=matrix[j][i];
             }
             cout<<endl;
-     //   ans.push_back(res);
         }
         return ans;
     }
