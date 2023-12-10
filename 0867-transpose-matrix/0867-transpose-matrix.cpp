@@ -7,7 +7,6 @@ public:
                 cout<<matrix[j][i]<<" ";
                 ans[i][j]=matrix[j][i];
             }
-            cout<<endl;
         }
         return ans;
     }
