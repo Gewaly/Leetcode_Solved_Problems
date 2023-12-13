@@ -15,10 +15,10 @@ function isSpecial(mat: number[][], vi: number, vj: number): boolean {
         
     }
     
-    for (let i = 0; i < mat.length; i++) {
-        if (i !== vi && mat[i][vj])   return false;
+    for (let i = 0; i < mat.length; i++) 
+        if (i !== vi && mat[i][vj])  return false;
         
-    }
+
     
     return true;
 }
