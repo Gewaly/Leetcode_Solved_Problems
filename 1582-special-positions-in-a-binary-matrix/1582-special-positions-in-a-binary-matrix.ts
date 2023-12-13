@@ -2,9 +2,8 @@ function numSpecial(mat: number[][]): number {
     let count = 0;
     for (let i = 0; i < mat.length; i++) {
         for (let j = 0; j < mat[i].length; j++) {
-            if (mat[i][j] && isSpecial(mat, i, j)) {
-                count++;
-            }
+            if (mat[i][j] && isSpecial(mat, i, j))   count++;
+            
         }
     }
     return count;
