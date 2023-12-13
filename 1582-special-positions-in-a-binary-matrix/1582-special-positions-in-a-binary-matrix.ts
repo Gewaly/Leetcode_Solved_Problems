@@ -12,15 +12,13 @@ function numSpecial(mat: number[][]): number {
 
 function isSpecial(mat: number[][], vi: number, vj: number): boolean {
     for (let j = 0; j < mat[0].length; j++) {
-        if (j !== vj && mat[vi][j]) {
-            return false;
-        }
+        if (j !== vj && mat[vi][j]) return false;
+        
     }
     
     for (let i = 0; i < mat.length; i++) {
-        if (i !== vi && mat[i][vj]) {
-            return false;
-        }
+        if (i !== vi && mat[i][vj])   return false;
+        
     }
     
     return true;
