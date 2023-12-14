@@ -11,13 +11,9 @@ public:
         
         for (int i = 0; i < m; ++i) {
             for (int j = 0; j < n; ++j) {
-                if (grid[i][j] == 1) {
-                    ones_row[i]++;
-                    ones_col[j]++;
-                } else {
-                    zeros_row[i]++;
-                    zeros_col[j]++;
-                }
+                if (grid[i][j] == 1)  ones_row[i]++,  ones_col[j]++;
+                 else zeros_row[i]++, zeros_col[j]++;
+                
             }
         }
         vector<vector<int>> diff(m, vector<int>(n, 0));
