@@ -6,8 +6,7 @@ var destCity = function (paths) {
     dests.push(dest)
   }
   for (const dest of dests) {
-    if (!srcSet.has(dest)) {
-      return dest
-    }
+    if (!srcSet.has(dest)) return dest
+    
   }
 }
