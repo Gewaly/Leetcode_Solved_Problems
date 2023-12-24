@@ -10,10 +10,9 @@ public:
                 else zeroOnEven += 1;
             
             else
-            {
-                if(s[i] == '0') oneOnOdd += 1;
-                else  zeroOnOdd += 1;
-            }
+               if(s[i] == '0') oneOnOdd += 1;
+               else  zeroOnOdd += 1;
+            
         }
 
         return min( zeroOnEven + oneOnOdd , oneOnEven + zeroOnOdd);
