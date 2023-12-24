@@ -6,10 +6,9 @@ public:
         for( int i = 0 ; i < s.length(); i++)
         {
             if( i % 2 == 0)
-            {
                 if(s[i] == '0')oneOnEven += 1;
                 else zeroOnEven += 1;
-            }
+            
             else
             {
                 if(s[i] == '0') oneOnOdd += 1;
