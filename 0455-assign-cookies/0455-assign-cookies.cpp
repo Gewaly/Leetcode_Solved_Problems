@@ -12,9 +12,8 @@ public:
                 i--;
                 j--;
             }
-            else if(g[i]>s[j]){
-                i--;
-            }
+            else if(g[i]>s[j]) i--;
+            
         }
         return c;
     }
