@@ -6,8 +6,7 @@ public:
             int sum=0;
             for(auto j:i)
                 sum+=j-'0';
-            if(sum)
-                beams.push_back(sum);
+            if(sum) beams.push_back(sum);
         }    
         int n=beams.size();
         if(n<2) 
