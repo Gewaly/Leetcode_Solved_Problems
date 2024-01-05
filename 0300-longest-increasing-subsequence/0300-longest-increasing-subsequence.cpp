@@ -7,9 +7,8 @@ public:
             auto it = lower_bound(begin(sorted),end(sorted),nums[i]);
             if(it == end(sorted)){
                 sorted.push_back(nums[i]);
-            }else{
-                *it = nums[i];
-            }
+            }else *it = nums[i];
+            
         }
         return sorted.size();
     }
