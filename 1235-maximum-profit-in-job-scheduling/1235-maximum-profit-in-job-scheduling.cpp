@@ -15,9 +15,8 @@ public:
         vector<pair<int, pair<int, int>>> v;
         int n=s.size();
         dp.resize(n,  -1);
-        for(int i=0; i<n; i++){
-            v.push_back({s[i], {e[i], p[i]}});
-        }
+        for(int i=0; i<n; i++) v.push_back({s[i], {e[i], p[i]}});
+        
         sort(s.begin(), s.end());
         sort(v.begin(), v.end());
         return solve(v, s, 0, -1);
