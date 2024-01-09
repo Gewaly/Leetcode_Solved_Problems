@@ -19,10 +19,8 @@ public:
     }
     void findLeaves(TreeNode* node, vector<int>& vec){
         if(node == nullptr)return;
-        if(node->left != nullptr)
-            findLeaves(node->left, vec);
-        if(node->right != nullptr)
-            findLeaves(node->right, vec);
+        if(node->left != nullptr) findLeaves(node->left, vec);
+        if(node->right != nullptr)  findLeaves(node->right, vec);
         if(node->left == nullptr && node->right == nullptr)
             vec.push_back(node->val);
     }
