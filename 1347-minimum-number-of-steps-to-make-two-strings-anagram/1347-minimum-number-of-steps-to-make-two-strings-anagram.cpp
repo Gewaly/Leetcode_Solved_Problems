@@ -13,12 +13,11 @@ public:
         for (auto it = mps.begin(); it != mps.end(); it++) {
             auto i = mpt.find(it->first);
             if (i != mpt.end()) {
-                if (it->second - i->second > 0) {
-                    res = res + (it->second - i->second);
-                }
-            } else {
+                if (it->second - i->second > 0)    res = res + (it->second - i->second);
+                
+            } else 
                 res = res + it->second;
-            }
+            
         }
         
         return res;
