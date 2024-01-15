@@ -11,9 +11,8 @@ public:
 
         vector<vector<int>> answer(2);
         for (auto& player : players) {
-            if (loseCount[player] <= 1) {
-                answer[loseCount[player]].push_back(player);
-            }
+            if (loseCount[player] <= 1)  answer[loseCount[player]].push_back(player);
+            
         }
 
         sort(answer[0].begin(), answer[0].end());
