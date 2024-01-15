@@ -14,7 +14,6 @@ public:
             if (loseCount[player] <= 1)  answer[loseCount[player]].push_back(player);
             
         }
-
         sort(answer[0].begin(), answer[0].end());
         sort(answer[1].begin(), answer[1].end());
         return answer;
