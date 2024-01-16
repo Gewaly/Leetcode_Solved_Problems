@@ -20,9 +20,8 @@ public:
            s.erase(val);
            return true;
        }
-        else {
-            return false;
-        }
+        else return false;
+        
     }
     
     int getRandom() {
