@@ -16,11 +16,10 @@ public:
     void preorder(TreeNode* node, int path){
          if(node!=NULL){
             path=path^(1<<node->val);
-             if(node->left==NULL and node->right==NULL){
-                 if((path&(path-1))==0){
-                     count++;
-                 }
-             }
+             if(node->left==NULL and node->right==NULL)
+                 if((path&(path-1))==0) count++;
+                 
+             
              preorder(node->left, path);
              preorder(node->right, path);
         }
