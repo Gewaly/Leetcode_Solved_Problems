@@ -12,9 +12,8 @@ public:
         mm[0] = 1;
         int ans = 0;
         for(auto i: prefix){
-            if(mm.find(i - target)!=mm.end()){
-                ans+= mm[i-target];
-            }
+            if(mm.find(i - target)!=mm.end())   ans+= mm[i-target];
+            
             mm[i]++;
         }
         return ans; 
