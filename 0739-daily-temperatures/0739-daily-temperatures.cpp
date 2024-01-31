@@ -11,9 +11,7 @@ public:
         }
         s.push(i);
     }
-        return arr;
-        
-        
+        return arr; 
         
     }
 };
