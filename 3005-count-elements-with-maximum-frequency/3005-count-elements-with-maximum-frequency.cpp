@@ -7,7 +7,6 @@ public:
         }
         vector<int>arr;
         for(auto x: mp) arr.push_back(x.second);
-        if(arr.size()==1)  return arr[0];
         sort(arr.rbegin(),arr.rend());
     
         int res=0;
