@@ -29,9 +29,9 @@ public:
             for(int j=0;j<arr[i].size();j++){
                 res^=arr[i][j];
             }
-                            cout<<res<<" ";
+                           // cout<<res<<" ";
 
-            cout<<endl;
+           // cout<<endl;
             ans+=res;
         }
 
