@@ -1,19 +1,17 @@
 class Solution {
 public:
     int findCenter(vector<vector<int>>& edges) {
-        map<int,int>mp;
-        for(int i=0;i<edges.size();i++){
-        for(int j=0;j<edges[i].size();j++){
-            mp[edges[i][j]]++;        
-         }
-        }
-        int max=-1,center;
-        for(auto x: mp){
-            if(x.second>max){
-                center=x.first;
-                max=x.second;
-            }
-        }
-        return center;
+       
+        int u1 = edges[0][0];
+        int v1 = edges[0][1];
+
+        int u2 = edges[1][0];
+        int v2 = edges[1][1];
+
+        if(u1==u2 || u1==v2) return u1;
+        else return v1;
+        
+
+        return 0;
     }
 };
