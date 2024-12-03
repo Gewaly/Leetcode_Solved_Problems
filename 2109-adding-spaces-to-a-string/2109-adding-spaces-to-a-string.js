@@ -15,4 +15,9 @@ var addSpaces = function (s, spaces) {
     }
     temp += s.slice(left, right);
     return temp;
+    
+    
+    
+    
+    
 };
