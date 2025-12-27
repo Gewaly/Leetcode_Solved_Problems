@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [2054-two-best-non-overlapping-events](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2402-meeting-rooms-iii](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -69,10 +70,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/2054-two-best-non-overlapping-events) |
+| [2402-meeting-rooms-iii](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/2054-two-best-non-overlapping-events) |
+| [2402-meeting-rooms-iii](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/2402-meeting-rooms-iii) |
+## Hash Table
+|  |
+| ------- |
+| [2402-meeting-rooms-iii](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/2402-meeting-rooms-iii) |
+## Simulation
+|  |
+| ------- |
+| [2402-meeting-rooms-iii](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/2402-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
