@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0136-single-number) |
+| [0840-magic-squares-in-grid](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0840-magic-squares-in-grid](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0840-magic-squares-in-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Dynamic Programming
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0756-pyramid-transition-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0840-magic-squares-in-grid) |
 | [2402-meeting-rooms-iii](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/2402-meeting-rooms-iii) |
 ## Simulation
 |  |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0840-magic-squares-in-grid](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Backtracking
 |  |
