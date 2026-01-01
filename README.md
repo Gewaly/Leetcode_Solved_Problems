@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0136-single-number) |
 | [0840-magic-squares-in-grid](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0944-delete-columns-to-make-sorted) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0840-magic-squares-in-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Dynamic Programming
