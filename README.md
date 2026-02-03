@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/3454-separate-squares-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3637-trionic-array-i](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/3637-trionic-array-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Bit Manipulation
 |  |
