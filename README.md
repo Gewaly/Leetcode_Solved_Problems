@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0110-balanced-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0110-balanced-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Sliding Window
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1975-maximum-matrix-sum](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/1975-maximum-matrix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0110-balanced-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
@@ -196,4 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
