@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0136-single-number) |
 | [0756-pyramid-transition-matrix](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0756-pyramid-transition-matrix) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0067-add-binary) |
 | [0840-magic-squares-in-grid](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/1390-four-divisors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0067-add-binary) |
 | [0756-pyramid-transition-matrix](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0067-add-binary) |
 | [2402-meeting-rooms-iii](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/2402-meeting-rooms-iii) |
 ## Matrix
 |  |
