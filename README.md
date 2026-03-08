@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1980-find-unique-binary-string](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/1980-find-unique-binary-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Greedy
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1980-find-unique-binary-string](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/1980-find-unique-binary-string) |
 | [2402-meeting-rooms-iii](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/2402-meeting-rooms-iii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Simulation
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0756-pyramid-transition-matrix) |
+| [1980-find-unique-binary-string](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/1980-find-unique-binary-string) |
 ## Breadth-First Search
 |  |
 | ------- |
