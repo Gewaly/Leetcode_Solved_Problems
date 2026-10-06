@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0067-add-binary) |
 | [0756-pyramid-transition-matrix](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0756-pyramid-transition-matrix) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1975-maximum-matrix-sum](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/1975-maximum-matrix-sum) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0085-maximal-rectangle) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -223,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/1382-balance-a-binary-search-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gewaly/Leetcode_Solved_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
